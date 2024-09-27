@@ -2,6 +2,7 @@ Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone con
 https://github.com/kaboomzxc/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/Zhang-Zhitong/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/AjayShanker-geek/ip.git,master,,tutorials/**;gradlew.bat,,,,,
+https://github.com/SemiColonKen/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/ayushi0803/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/G13nd0n/ip.git,master,,tutorials/**;gradlew.bat,,,,,
 https://github.com/tayjerom/ip.git,master,,tutorials/**;gradlew.bat,,,,,
